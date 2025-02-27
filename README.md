@@ -1,12 +1,12 @@
 # BEAMMP-JOBSMISSION-BASE
-May release the server side and client side code soon. its not amazing as i cant be asked digging around beamng lua files to figure out shit anymore. This isnt production ready. right now its trusting the user with alot of stuff.. to actually use it on a public server gotta add checks and sanatize the data that user is giving to server and more.. 
 
-
-Within a week or so i made a BEAMMP server which has features such as 
+- save vehicle config and saves location on disconnect. respawn samee location as login.
 - Basic economy
 - Buy vehicles
 - Buy parts  
 - Delivery missions
+
+  Not perfect at all and rushed but was fun. not planning to continue 
 
  (gotta use a shitty little script to get all the parts that a vehicle has and the vehicle configs that you can select in the beamng vehicle selection menu so that the server knows how much it should charge the user that is trying to buy x part or car)
 
