@@ -6,6 +6,8 @@
 - Buy parts  
 - Delivery missions
 
+there a little video in releases showing the trailer mission
+
   Not perfect at all and rushed but was fun. not planning to continue 
 
  (gotta use a shitty little script to get all the parts that a vehicle has and the vehicle configs that you can select in the beamng vehicle selection menu so that the server knows how much it should charge the user that is trying to buy x part or car)
